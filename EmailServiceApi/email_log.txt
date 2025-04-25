@@ -1,0 +1,30 @@
+Date: 2025-04-25 05:34:20 UTC, To: string, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed (Attempt 1): The specified string is not in the form required for an e-mail address.
+Date: 2025-04-25 13:48:26 UTC, To: string, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed (Attempt 2): The specified string is not in the form required for an e-mail address.
+Date: 2025-04-25 13:48:39 UTC, To: string, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed (Attempt 3): The specified string is not in the form required for an e-mail address.
+Date: 2025-04-25 13:49:37 UTC, To: string, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed (Attempt 1): The specified string is not in the form required for an e-mail address.
+Date: 2025-04-25 13:49:52 UTC, To: string, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed (Attempt 2): The specified string is not in the form required for an e-mail address.
+Date: 2025-04-25 13:50:36 UTC, To: suboor@gmail.com, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed (Attempt 1): Failure sending mail.
+Date: 2025-04-25 13:50:57 UTC, To: suboor@gmail.com, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed (Attempt 2): Failure sending mail.
+Date: 2025-04-25 13:51:17 UTC, To: suboor@gmail.com, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed (Attempt 3): Failure sending mail.
+Date: 2025-04-25 13:51:17 UTC, To: suboor@gmail.com, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed after 3 retries
+Date: 2025-04-25 13:59:22 UTC, To: suboor@gmail.com, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed (Attempt 1): Failure sending mail.
+Date: 2025-04-25 13:59:37 UTC, To: suboor@gmail.com, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed (Attempt 2): Failure sending mail.
+Date: 2025-04-25 13:59:53 UTC, To: suboor@gmail.com, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed (Attempt 3): Failure sending mail.
+Date: 2025-04-25 13:59:53 UTC, To: suboor@gmail.com, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed after 3 retries
+Date: 2025-04-25 14:10:53 UTC, To: suboor1@gmail.com, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed (Attempt 1): Failure sending mail.
+Date: 2025-04-25 14:11:09 UTC, To: suboor1@gmail.com, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed (Attempt 2): Failure sending mail.
+Date: 2025-04-25 14:11:22 UTC, To: suboor1@gmail.com, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed (Attempt 3): Failure sending mail.
+Date: 2025-04-25 16:28:23 UTC, To: Test@gmail.com, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed (Attempt 1): Failure sending mail.
+Date: 2025-04-25 16:36:16 UTC, To: test@gmail.com, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed (Attempt 1): Failure sending mail.
+Date: 2025-04-25 16:36:33 UTC, To: test@gmail.com, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed (Attempt 2): Failure sending mail.
+Date: 2025-04-25 16:36:48 UTC, To: test@gmail.com, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed (Attempt 3): Failure sending mail.
+Date: 2025-04-25 17:06:51 UTC, To: test@gmail.com, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed (Attempt 1): Failure sending mail.
+Date: 2025-04-25 17:07:07 UTC, To: test@gmail.com, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed (Attempt 2): Failure sending mail.
+Date: 2025-04-25 17:07:22 UTC, To: test@gmail.com, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed (Attempt 3): Failure sending mail.
+Date: 2025-04-25 17:07:22 UTC, To: test@gmail.com, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed after 3 retries
+Date: 2025-04-25 20:46:59 UTC, To: test@gmail.com, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed (Attempt 1): Failure sending mail.
+Date: 2025-04-25 20:47:12 UTC, To: test@gmail.com, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed (Attempt 2): Failure sending mail.
+Date: 2025-04-25 20:47:25 UTC, To: test@gmail.com, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed (Attempt 3): Failure sending mail.
+Date: 2025-04-25 20:47:25 UTC, To: test@gmail.com, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed after 3 retries
+Date: 2025-04-25 22:09:19 UTC, To: test@gmail.com, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed (Attempt 1): Failure sending mail.
+Date: 2025-04-25 22:10:36 UTC, To: test@gmail.com, Subject: Test Email from API, Body: This is a test email sent from the API., Status: Failed (Attempt 2): Failure sending mail.

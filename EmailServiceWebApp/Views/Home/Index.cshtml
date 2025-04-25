@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Send Test Email";
+}
+
+<h1>Send Test Email</h1>
+
+@if (!string.IsNullOrEmpty(ViewBag.Message))
+{
+    <p>@ViewBag.Message</p>
+}
+
+<form method="post" asp-action="SendEmail">
+    <div class="form-group">
+        <label for="recipientEmail">Recipient Email:</label>
+        <input type="email" class="form-control" id="recipientEmail" name="recipientEmail" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Send Email</button>
+</form>
