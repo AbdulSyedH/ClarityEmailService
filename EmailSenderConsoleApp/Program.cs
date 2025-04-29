@@ -24,8 +24,12 @@ namespace EmailSenderConsoleApp
             if (!string.IsNullOrEmpty(recipientEmail))
             {
                 Console.WriteLine("Sending test email...");
-                await emailSender.SendEmailAsync(recipientEmail, "Test Email from Console App", "This is a test email sent from the console application.");
-                Console.WriteLine("Email sending initiated (check email_log.txt for status).");
+                var sendEmailVal = await emailSender.SendEmailAsync(recipientEmail, "Test Email from Console App", "This is a test email sent from the console application.");
+                if (sendEmailVal)
+                {
+                    Console.WriteLine("Email sending initiated (check email_log.txt for status).");
+                }
+                Console.WriteLine("Email Not sent (check email_log.txt for status)");
             }
             else
             {
